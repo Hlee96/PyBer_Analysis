@@ -12,6 +12,7 @@ Some of the conclusions that can be made are:
 - The number of drivers exceeds the amount of total rides in Ubran city type.
 The image below is a line chart that depicts the summary above in a visual way. Where the independent variable is the month and the dependent variable is the Fare price. The different line and colors represent the city type.
 ![PyBer_fare_summary](https://user-images.githubusercontent.com/108282027/182739084-20af1f30-2a45-4e25-ba47-12336eab941f.png)
+
 The conclusions that can be made are:
 - Urban city type had the highest total fares from the month of January through April.
 - The month of March showed the highest trend for fare revenue.
