@@ -4,6 +4,7 @@ The purpose of the analysis was to analyze the data for PyBer, a ridesharing com
 ## Results
 The following picture shows the dataframe and the difference by city type.
 ![Screenshot 2022-08-03 194042](https://user-images.githubusercontent.com/108282027/182738814-e6563fba-1f54-4621-be68-a4b9e43ffea6.png)
+
 Some of the conclusions that can be made are:
 - Urban cities are the top city type with the most amount of rides with 1625 rides.
 - Urban cities generate the most revenue thanks to the most amount of rides, with the revnue of $39,854.
